@@ -28,14 +28,14 @@ Amiga 2000 y 3000
         ![Image Alt text](/imagenes/A4000_Video_Slot_Male_Only_Conn.jpg "Amiga 4000")
 
 
-##  DB23 RGB
+##  DB23
 
 ****Para montar en pcb un conector de cable.****
 
 Macho.
-![Image Alt text](/imagenes/DB_23_RGB_Male_EdgeMount_P2.77mm.jpg "Conector Macho")
+![Image Alt text](/imagenes/DB_23_Male_EdgeMount.jpg "Conector Macho")
 
 Hembra
-![Image Alt text](/imagenes/DB_23_RGB_Female_EdgeMount_P2.77mm.jpg "Conector Hembra")
+![Image Alt text](/imagenes/DB_23_Female_EdgeMount.jpg "Conector Hembra")
 
 
